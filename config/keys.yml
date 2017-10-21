@@ -1,0 +1,3 @@
+recommendations:
+    key: '<YOUR_SUBSCRIPTION_KEY'
+    region: '<YOUR_ENDPOINT_REGION>'
